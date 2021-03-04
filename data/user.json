@@ -1,3 +1,28 @@
 [
-
+  {
+    "username": "NaTTTT",
+    "password": "pass",
+    "real_name": "Natalia",
+    "email": "123fd@i.ua",
+    "gender": 2,
+    "birthday": [1986, 1, 17],
+    "looking_for": [1, 2],
+    "here_for": [3, 4],
+    "music": "Brainstorm, LP and others",
+    "fav_books": "bla-bla-bla",
+    "is_admin": false
+  },
+  {
+    "username": "Nata2",
+    "password": "pass",
+    "real_name": "Natalia",
+    "email": "t34@i.ua",
+    "gender": 2,
+    "birthday": [1980, 6, 17],
+    "looking_for": [1, 2],
+    "here_for": [3, 1, 4],
+    "music": "Brainstorm, LP and others",
+    "fav_books": "bla-bla-bla",
+    "is_admin": false
+  }
 ]

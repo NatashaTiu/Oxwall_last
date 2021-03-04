@@ -1,0 +1,14 @@
+{
+  "base_url": "http://127.0.0.1/oxwall/",
+  "db": {"host":"localhost",
+        "user": "root",
+        "password":"mysql",
+        "database":"oxwa311"
+  },
+  "admin": {
+    "username": "admin",
+    "password": "pass",
+    "email": "admin@127.0.0.1",
+    "real_name": "Admin"
+  }
+}
